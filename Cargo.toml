@@ -1,0 +1,8 @@
+[package]
+name = "sqrt_diff"
+version = "0.1.0"
+authors = ["junpei <k1263j@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+gnuplot = "0.0.31"
